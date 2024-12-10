@@ -13,6 +13,9 @@ export default {
             // },
             colors: {
                 "black" : "#060606"
+            },
+            fontSize: {
+                '10px': '0.625rem'
             }
         },
     },
